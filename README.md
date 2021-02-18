@@ -1,5 +1,5 @@
 #Projeto Calculadora de Gorjetas
-[]!(https://github.com/thiagomurgia/b7web-calculo-gorjeta/blob/main/calc.gif)
+![calc](calc.gif)
 >Neste projeto foi utilizado as seguintes tecnologias
 
 <img src="https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png"> ##React
