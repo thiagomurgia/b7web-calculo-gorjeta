@@ -8,7 +8,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/html-2752158-2284975.png"width="150" height="150">
 <img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"width="150" height="150">
 
-``` ````
+<hr/>
 
 >1. Para baixar o projeto basta abrir seu terminal CMD ou gitBash
 >2. Selecionar a pasta de destino
