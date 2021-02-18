@@ -1,6 +1,6 @@
 ![calc](calc.gif)
 
-# Projeto Calculadora de Gorjetas
+<center> # Projeto Calculadora de Gorjetas </center>
 > ### Neste projeto foi utilizado as seguintes tecnologias
 
 <img src="https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png" width="100" height="100">
