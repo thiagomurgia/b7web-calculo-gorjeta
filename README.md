@@ -1,4 +1,4 @@
-![calc](calc.gif)
+(calc.gif)
 
  # Projeto Calculadora de Gorjetas 
 > ### Neste projeto foi utilizado as seguintes tecnologias
