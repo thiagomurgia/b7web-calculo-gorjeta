@@ -1,4 +1,4 @@
-##Projeto Calculadora de Gorjetas
+#Projeto Calculadora de Gorjetas
 
 >Neste projeto foi utilizado as seguintes tecnologias
 
@@ -10,6 +10,8 @@
 >#Para baixar o projeto basta abrir seu terminal CMD ou gitBash
 >#Selecionar a pasta de destino
 >#Digitar git clone https://github.com/thiagomurgia/b7web-calculo-gorjeta.git
-
 >Após a conclusão do download
 >Basta abrir em seu terminal
+>Digitar npm i para que sejam instaladas todas as dependências
+>Após concluir o download de todas as dependências do projeto
+>Digite em seu terminal ou em seu terminal integrado do vscode yarn start
